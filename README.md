@@ -29,6 +29,4 @@ Contribuições são bem-vindas! Para sugestões, correções de bugs ou melhori
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
-## Saiba Mais
 
-Para aprender mais sobre o React, consulte a [documentação oficial do React](https://reactjs.org/docs).
